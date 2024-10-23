@@ -1,0 +1,4 @@
+1.Клоинруйте репозиторий на свой компьютер. 
+2.Откройте проект в Visual Studio.
+3.Установите необходимые пакеты через NuGet Package Manager или  терминал ,командами 'Install-Package NUnit','Install-Package NUnit3TestAdapter'.
+4.Запустите тесты через Text Explorer.EN(Test -> TestExplorer) || RU(Тест -> Запуск всех тестов)

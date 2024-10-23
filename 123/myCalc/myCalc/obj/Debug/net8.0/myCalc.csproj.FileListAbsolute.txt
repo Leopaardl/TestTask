@@ -1,0 +1,12 @@
+D:\TestTask\123\myCalc\myCalc\bin\Debug\net8.0\myCalc.deps.json
+D:\TestTask\123\myCalc\myCalc\bin\Debug\net8.0\myCalc.dll
+D:\TestTask\123\myCalc\myCalc\bin\Debug\net8.0\myCalc.pdb
+D:\TestTask\123\myCalc\myCalc\obj\Debug\net8.0\myCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestTask\123\myCalc\myCalc\obj\Debug\net8.0\myCalc.AssemblyInfoInputs.cache
+D:\TestTask\123\myCalc\myCalc\obj\Debug\net8.0\myCalc.AssemblyInfo.cs
+D:\TestTask\123\myCalc\myCalc\obj\Debug\net8.0\myCalc.csproj.CoreCompileInputs.cache
+D:\TestTask\123\myCalc\myCalc\obj\Debug\net8.0\myCalc.sourcelink.json
+D:\TestTask\123\myCalc\myCalc\obj\Debug\net8.0\myCalc.dll
+D:\TestTask\123\myCalc\myCalc\obj\Debug\net8.0\refint\myCalc.dll
+D:\TestTask\123\myCalc\myCalc\obj\Debug\net8.0\myCalc.pdb
+D:\TestTask\123\myCalc\myCalc\obj\Debug\net8.0\ref\myCalc.dll
