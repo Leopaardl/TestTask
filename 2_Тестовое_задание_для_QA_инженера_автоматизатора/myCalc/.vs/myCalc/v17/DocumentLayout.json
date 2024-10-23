@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TestTask\\123\\myCalc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0318922-1DCC-44BE-ABE6-EDDF9AFC7F27}|myCalc\\myCalc.csproj|d:\\testtask\\123\\mycalc\\mycalc\\mycalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0318922-1DCC-44BE-ABE6-EDDF9AFC7F27}|myCalc\\myCalc.csproj|solutionrelative:mycalc\\mycalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBAF0E5-F020-4B08-AF7C-1DB494D4E645}|myCalcTests\\myCalcTests.csproj|d:\\testtask\\123\\mycalc\\mycalctests\\mycalctest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBAF0E5-F020-4B08-AF7C-1DB494D4E645}|myCalcTests\\myCalcTests.csproj|solutionrelative:mycalctests\\mycalctest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCalcTest.cs",
+              "DocumentMoniker": "D:\\TestTask\\123\\myCalc\\myCalcTests\\MyCalcTest.cs",
+              "RelativeDocumentMoniker": "myCalcTests\\MyCalcTest.cs",
+              "ToolTip": "D:\\TestTask\\123\\myCalc\\myCalcTests\\MyCalcTest.cs",
+              "RelativeToolTip": "myCalcTests\\MyCalcTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:31:08.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyCalc.cs",
+              "DocumentMoniker": "D:\\TestTask\\123\\myCalc\\myCalc\\MyCalc.cs",
+              "RelativeDocumentMoniker": "myCalc\\MyCalc.cs",
+              "ToolTip": "D:\\TestTask\\123\\myCalc\\myCalc\\MyCalc.cs",
+              "RelativeToolTip": "myCalc\\MyCalc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:27:46.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
